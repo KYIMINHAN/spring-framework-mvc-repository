@@ -32,7 +32,7 @@
 
 		<!-- spring framework and spring security version -->
 		<spring.version>5.2.2.RELEASE</spring.version>
-		<spring.secrity.version>5.2.1.RELEASE</spring.secrity.version>
+		<spring.secrity.version>5.2.11.RELEASE</spring.secrity.version>
 		<spring-data-jpa.version>2.2.3.RELEASE</spring-data-jpa.version>
 		<aspectj.version>1.9.5</aspectj.version>
 
